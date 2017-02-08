@@ -1,2 +1,2 @@
-# eCommerce-US-HostedSolutions-a
+# eCommerce-US-HostedSolutions
 eCommerce-US-HostedSolutions
